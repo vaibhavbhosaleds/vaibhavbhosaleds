@@ -93,22 +93,22 @@ I also mentor students & professionals, and I have delivered **guest lectures at
 # 🏆 **GitHub Stats & Achievements**
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=vaibhavbhosale&show_icons=true&theme=tokyonight" />
-  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbhosale&theme=tokyonight" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=vaibhavbhosaleds&show_icons=true&theme=tokyonight" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbhosaleds&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavbhosale&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavbhosaleds&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
 # 🌐 **Connect With Me**
 <p align="left">
-<a href="https://linkedin.com/in/vaibhavbhosale">
+<a href="https://www.linkedin.com/in/vaibhav-bhosale-52b0a7342/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/vaibhavbhosale">
+<a href="https://github.com/vaibhavbhosaleds">
   <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
